@@ -16,5 +16,5 @@ A dot plot is generated that displays the Motif name and the gene the motif is f
 
 See the homer-motif-processing.R script for analyzing the output. 
 
-
+Homer version v3.12 (6-8-2012)
 
