@@ -19,6 +19,7 @@ See the homer-motif-processing.R script for analyzing the output.
 Custom conda environment contains the following:
 
 | Package | Version |
+| ------- | ------- |
 | biopython | 1.81 |
 | Bottleneck | 1.3.5 |
 | brotlipy | 0.7.0 |
