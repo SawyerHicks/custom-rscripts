@@ -3,7 +3,7 @@ library(gridExtra)
 library(grid)
 library(ggplot2)
 # working dir
-setwd("Z:/common/hicks/data_and_analysis/JAF-HM-Small-Molecule-Analysis-NJ5-21/motifs/R-processing-and-plotting/")
+setwd("path-to/R-processing-and-plotting/")
 
 # load in results file
 headers = c("Motif_Name", "Consensus", "Pvalue", "LogPvalue", "Qvalue(Benjamini)", "Target_seqs_w_Motif", "Perc_Targets_w_Motif", "Background_w_Motif", "Perc_Background_w_Motif")
